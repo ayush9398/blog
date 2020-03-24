@@ -8,7 +8,7 @@ categories: Open Source
 
 I hope I am not going too fast! Two blog posts in one day, damn! But if you have read my first blog post, you may got the feeling about how formal and kind of "no one will read" post it is.
 
-I am currently contributing to [Pitivi](http://www.pitivi.org/), a GNOME open source project. I have been contributing to it for about 8 months now. I started contributing to open source projects 2 years back and made contributions to many projects. It started out as a curosity to know more into the field of engineering and coding, and how I heard the word "OPEN SOURCE" again and again.
+I have been contributing to [Pitivi](http://www.pitivi.org/), a GNOME open source project for about 8 months now. I started contributing to open source projects 2 years back and made contributions to many projects. It started out as a curosity to know more into the field of engineering and coding, and how I heard the word "OPEN SOURCE" again and again.
 
 First step was learning about git, which by the way I am still learning(stackoverflow :p). If you want a free workspace where you can put your code for anyone to find, Github( or Gitlab) is the place. And when you start with Github, they will make you learn the basic git commands about `git clone`, `git add`, `git commit` and `git push`. That is enough for start, and then keep browsing web for anything you want to do further.
 
