@@ -14,7 +14,7 @@ I have been contributing to [Pitivi](http://www.pitivi.org/), a GNOME open sourc
 
 First step was learning about git, which by the way I am still learning(stackoverflow :p). If you want a free workspace where you can put your code for anyone to find, Github( or Gitlab) is the place. And when you start with Github, they will make you learn the basic git commands about `git clone`, `git add`, `git commit` and `git push`. That is enough for start, and then keep browsing web for anything you want to do further.
 
-Open Source can be intimidating. With so much code and so many experts around you will get a feeling about how you may f**k up the thing they are working up. That is the only thing which kept me for contributing to it. If you are someone who is thinking about it, remember, you can't do any damage to an open source project, even if you want to(why would you even think about that?!). 
+Open Source can be intimidating. With so much code and so many experts around you will get a feeling about how you may f**k up the thing they are working up. That is the only thing which kept me from contributing to it. If you are someone who is thinking about it, remember, you can't do any damage to an open source project, even if you want to(why would you even think about that?!). 
 
 ![The Start](https://media.giphy.com/media/S8ToH7Zt8gZ4u2iClh/giphy.gif)
 
