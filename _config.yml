@@ -16,7 +16,7 @@ google_analytics:
 # Optional features
 animated:             true
 show_related_posts:   true
-show_post_footers:    true
+show_post_footers:    false
 show_social_icons:    true
 
 # Preview image for social media aka og:image and twitter:image
