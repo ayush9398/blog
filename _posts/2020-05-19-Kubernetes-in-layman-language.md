@@ -54,7 +54,7 @@ Now, let's dive deeper:
 
 While I have tried to explain the Kubernetes architecture above, below image may help to get a better view of things.
 
-![](http://thenewstack.io/wp-content/uploads/2016/11/Chart_02_Kubernetes-Architecture.png)
+![](https://thenewstack.io/wp-content/uploads/2016/11/Chart_02_Kubernetes-Architecture.png)
 
 # Summary
 
