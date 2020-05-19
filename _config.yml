@@ -1,8 +1,9 @@
 # Site settings
 title:       ayush9398
+related_img: ./darth.png
 email:       ayush.mittal9398@gmail.com
 author:      Ayush Mittal
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+description: "Ayush's blog"
 baseurl:     "/blog"
 url:         "https://ayush9398.github.io"
 date_format: "%b %-d, %Y"
@@ -15,14 +16,14 @@ google_analytics:
 # Optional features
 animated:             true
 show_related_posts:   true
-show_post_footers:    false
+show_post_footers:    true
 show_social_icons:    true
 
 # Preview image for social media aka og:image and twitter:image
 post_preview_image: false
 
 # Disqus post comments
-disqus_shortname:
+disqus_shortname: ayush9398
 
 # Social icons
 github_username: ayush9398

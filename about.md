@@ -11,7 +11,7 @@ Hey wanderer! Thanks for stopping by!
 
 I am Ayush Mittal, and this is my blog website. I am going to be a software engineer, currently in the end semester of my B.Tech Degree program at [MSIT](http://www.msit.in). I like to eat, code, play video games and sleep! 
 
-I love to try new things out, even though it's something related to coding or maybe some adventure, even though I suck at it. 
+I love to try new things out, if it's something related to coding or maybe some adventure, even though I suck at it. 
 
 Codewise, I currently contribute to Open Source at Pitivi, a GNOME video editor tool.
 
