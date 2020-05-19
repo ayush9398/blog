@@ -12,7 +12,7 @@ What do I mean by "layman"?
 
 Layman - a person without professional or specialized knowledge in a particular subject.
 
-That what I was when I started with my Kubernetes journey! I knew a little about docker so, Kubernetes was alien to me, except for a fact that it has something to do with containers and was like docker. But when I got to know about it more, I could applaud the mindful engineers who came upon this marvellous structure.
+That's what I was when I started with my Kubernetes journey! I knew a little about docker so, Kubernetes was alien to me, except for a fact that it has something to do with containers and was like docker. But when I got to know about it more, I could applaud the mindful engineers who came upon this marvellous structure.
 
 Let's dive into it then!
 
