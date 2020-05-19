@@ -6,6 +6,8 @@ summary: A simple intro to Kubernetes.
 categories: beginner, docker
 ---
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/220px-Kubernetes_logo_without_workmark.svg.png)
+
 Prerequisites: containers
 
 What do I mean by "layman"?
