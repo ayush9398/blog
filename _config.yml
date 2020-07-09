@@ -86,3 +86,9 @@ exclude:
   - Rakefile
   - README.md
   - vendor
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
