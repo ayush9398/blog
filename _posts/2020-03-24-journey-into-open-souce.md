@@ -3,7 +3,7 @@ layout: post
 title: Starting into Open Source!
 date: 2020-03-24 22:10
 summary: something I did and learned!!
-categories: Open Source
+category: Open-Source
 ---
 
 I hope I am not going too fast! Two blog posts in one day, damn! But if you have read my first blog post, you may got the feeling about how formal and kind of "no one will read" post it is.

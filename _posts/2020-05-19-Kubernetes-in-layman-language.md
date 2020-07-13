@@ -3,7 +3,7 @@ layout: post
 title: Kubernetes in layman language!
 date: 2020-05-19 10:46
 summary: A simple intro to Kubernetes.
-categories: beginner, docker
+category: beginner
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/220px-Kubernetes_logo_without_workmark.svg.png)

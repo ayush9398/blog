@@ -76,9 +76,18 @@ permalink:    :title
 paginate:     4
 sass:
   style: compressed
+
+feed: 
+  categories:
+    - pitivi
+    - beginner
+    - Open-Source
+    - GSOC
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - Gemfile

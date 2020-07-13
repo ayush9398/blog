@@ -3,7 +3,7 @@ layout: post
 title: First Blog!
 date: 2020-03-24 22:04
 summary: very first blog!
-categories: beginning
+category: beginner
 ---
 
 ![Let's get on with it](https://media.giphy.com/media/YPIrsRqqO7oB2/giphy.gif)

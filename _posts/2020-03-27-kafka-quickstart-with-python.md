@@ -3,7 +3,7 @@ layout: post
 title: Kafka  Quickstart with python
 date: 2020-04-05 22:04
 summary: Start with Kafka immediately through python!
-categories: beginning
+category: beginner
 ---
 
 I have been working as a DevOps intern at Bobble.ai for almost 2 months now. My first task when I joined the internship was researching about Kafka, and believe me, I had no idea about kafka. I have seen the name many times in the requirements section of many internships but never got a chance to really work on it up close.
