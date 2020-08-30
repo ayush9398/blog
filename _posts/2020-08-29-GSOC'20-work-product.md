@@ -21,7 +21,7 @@ Can you even notice where the render Preset option is in all the clutter?
     <p style="font-size: 10px;" align="center"> Old Render Dialog-1</p>
 </p>
 
-We decided to move forward with a button which shows the current preset. When clicked, it opens a Gtk.Popover which lists the available presets. The presets listed in the popover include a relevant icon and an informative summary, making it an easy choice for the user. Thus I fixed issue #1813.
+We decided to move forward with a button which shows the current preset. When clicked, it opens a Gtk.Popover which lists the available presets. The presets listed in the popover include a relevant icon and an informative summary, making it an easy choice for the user. Thus I fixed issue [#1813](https://gitlab.gnome.org/GNOME/pitivi/-/issues/1813).
 
 We mostly cared about rendering a project to be uploaded to an online sharing service such as YouTube, Vimeo, etc., so there are not many other options at the moment.
 
@@ -40,7 +40,7 @@ Through multiple iterations, we fine-tuned the UI so it looks nice and clear, im
 
 # Addition of path property in Gstreamer Encoding-Target
 
-Previously when a render profile was deleted, it was just marked as such. While at it, I took the opportunity to properly delete them. Unfortunately the path of the file where a GstPbutils.EncodingTarget object originates was not available.
+Previously when a render profile was deleted, it was just marked as such. While at it, I took the opportunity to properly delete them. Unfortunately the path of the file where a [GstPbutils.EncodingTarget](https://lazka.github.io/pgi-docs/#GstPbutils-1.0/classes/EncodingTarget.html#GstPbutils.EncodingTarget) object originates was not available.
 
 I added a new `path` property to GstPbUtils.EncodingTarget and populated it when the object is saved or loaded.
 
@@ -52,7 +52,7 @@ I added a new `path` property to GstPbUtils.EncodingTarget and populated it when
 
 The many settings displayed on the render dialog were intimidating to both new and seasoned users. Since many will never be interested in the advanced settings, I introduced an expander which hides the detailed settings of rendering dialog, at the same time keeping them easily accessible. 
 
-Also, I moved the Folder and Filename sections at the bottom, to give more prominence to the render preset which is now at the top. I made the UI follow the GNOME Visual layout for an attractive and intuitive design.
+Also, I moved the Folder and Filename sections at the bottom, to give more prominence to the render preset which is now at the top. I made the UI follow the [GNOME Visual layout](https://developer.gnome.org/hig/stable/visual-layout.html.en) for an attractive and intuitive design.
 
 <b>MR:</b> [link](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/319)
 
@@ -80,7 +80,7 @@ To simplify the user's choice, a Gtk.Scale widget has been introduced for specif
 
 # Work to be done
 
-Merge request !323 is still being reviewed in the final stages, and shall be merged soon.
+Merge request [!323](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/323) is still being reviewed in the final stages, and shall be merged soon.
 
 We can add more presets, such as high-quality archiving to be able to dispose of the original video material.
 
