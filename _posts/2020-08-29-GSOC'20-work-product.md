@@ -34,7 +34,7 @@ A custom icon is used for Custom profiles.
 
 Through multiple iterations, we fine-tuned the UI so it looks nice and clear, improving the User Experience.
 
-<b>MR:</b> https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/306
+<b>MR:</b> [link](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/306)
 
 <b>MR status:</b> Merged.
 
@@ -44,7 +44,7 @@ Previously when a render profile was deleted, it was just marked as such. While 
 
 I added a new `path` property to GstPbUtils.EncodingTarget and populated it when the object is saved or loaded.
 
-<b>MR:</b> https://gitlab.freedesktop.org/gstreamer/gst-plugins-base/-/merge_requests/714
+<b>MR:</b> [link](https://gitlab.freedesktop.org/gstreamer/gst-plugins-base/-/merge_requests/714)
 
 <b>MR status:</b> Merged.
 
@@ -54,7 +54,7 @@ The many settings displayed on the render dialog were intimidating to both new a
 
 Also, I moved the Folder and Filename sections at the bottom, to give more prominence to the render preset which is now at the top. I made the UI follow the GNOME Visual layout for an attractive and intuitive design.
 
-<b>MR:</b> https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/319
+<b>MR:</b> [link](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/319)
 
 <b>MR status:</b> Merged.
 
@@ -74,7 +74,7 @@ To simplify the user's choice, a Gtk.Scale widget has been introduced for specif
     <p style="font-size: 10px;" align="center"> Updated Render Dialog with Quality Scale -2.</p>
 </p>
 
-<b>MR:</b> https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/323
+<b>MR:</b> [link](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/323)
 
 <b>MR status:</b> Work in Progress.
 
