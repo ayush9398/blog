@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GSoC 2020 @ Pitivi: Work Product"
-date: 2020-07-05 14:00
+date: 2020-08-29 18:30
 summary: A summary to what's been done up until now.
 category: pitivi
 ---
