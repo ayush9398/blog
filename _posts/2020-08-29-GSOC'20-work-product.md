@@ -6,11 +6,11 @@ summary: A summary to what's been done up until now.
 category: pitivi
 ---
 
-# Overview
+## Overview
 
 My GSoC 2020 internship project was improving the usability of Pitivi's Render dialog. Below is a detailed summary of the work done during the last three months.
 
-# Refactoring the Render Presets’ selection
+## Refactoring the Render Presets’ selection
 
 The previous UI for selecting a render preset was being constructed dynamically. The same mechanism is used to also construct the audio and video selection preset UI in the project settings dialog. 
 
@@ -38,7 +38,7 @@ Through multiple iterations, we fine-tuned the UI so it looks nice and clear, im
 
 <b>MR status:</b> Merged.
 
-# Addition of path property in Gstreamer Encoding-Target
+## Addition of path property in Gstreamer Encoding-Target
 
 Previously when a render profile was deleted, it was just marked as such. While at it, I took the opportunity to properly delete them. Unfortunately the path of the file where a [GstPbutils.EncodingTarget](https://lazka.github.io/pgi-docs/#GstPbutils-1.0/classes/EncodingTarget.html#GstPbutils.EncodingTarget) object originates was not available.
 
@@ -48,7 +48,7 @@ I added a new `path` property to GstPbUtils.EncodingTarget and populated it when
 
 <b>MR status:</b> Merged.
 
-# Hiding the advanced render UI in a new "Advanced" expander
+## Hiding the advanced render UI in a new "Advanced" expander
 
 The many settings displayed on the render dialog were intimidating to both new and seasoned users. Since many will never be interested in the advanced settings, I introduced an expander which hides the detailed settings of rendering dialog, at the same time keeping them easily accessible. 
 
@@ -58,7 +58,7 @@ Also, I moved the Folder and Filename sections at the bottom, to give more promi
 
 <b>MR status:</b> Merged.
 
-# Addition of Quality selection for supported encoders
+## Addition of Quality selection for supported encoders
 
 In the video rendering process, there is a tradeoff between quality of the rendered video and the size of the video and the time it takes to render. If the user requires the video to be in high quality then the size of the video also increases.
 
@@ -78,7 +78,7 @@ To simplify the user's choice, a Gtk.Scale widget has been introduced for specif
 
 <b>MR status:</b> Work in Progress.
 
-# Work to be done
+## Work to be done
 
 Merge request [!323](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests/323) is still being reviewed in the final stages, and shall be merged soon.
 
